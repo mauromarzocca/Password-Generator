@@ -19,6 +19,7 @@ void changelog()
     printf("\t Versione 1.4 : Miglioramento generale del codice\n");
     printf("\t Versione 1.5 : Rinnovamento del codice\n");
     printf("\t Versione 1.6 : Bug Fix\n");
-    
+    printf("\t Versione 1.7 : Rilasciata versione per Github\n");
+
     printf("\n\n");
 }

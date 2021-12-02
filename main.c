@@ -16,7 +16,7 @@ int main()
     int scelta = 0;
     
     printf("\t--- PASSWORD GENERATOR ---\n");
-    printf("\t--- Versione 1.6 ---\n");
+    printf("\t--- Versione 1.7 ---\n");
     printf("\t--- Un programma di Marzocca Mauro ---\n\n");
     
     do
